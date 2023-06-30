@@ -4,9 +4,9 @@
 - We will start the discussion by providing a perpespective on Artificial Intelligence which is the top level body of knowledge everythingis a part of and gradually dive deep in to the classification task.
 - In this notes you will learn
 
-## Table of Contents {#table-of-contents}
 
-[**1. What is Artificial Intelligence?**](#Artificial_Intelligence)<br>
+
+[**1. What is Artificial Intelligence?**](#artificial-intelligence)<br>
 **2. What is Machine Learning?**<br>
 **3. Why do we need machine leanring?**<br>
 **4. What is Supervised Leanring?**<br>
@@ -15,9 +15,9 @@
 **7. Map to understand algorithms** <br>
 
 
-[Link Text](#table-of-contents)
 
-## What is Artificial Intelligence? {#'Artificial_Intelligence'}
+
+## What is Artificial Intelligence?
 
 Artificial Intelligence is a field of computer science which aims to create intelligent  computers which can think and act like humans which means which can think and act rationally. This helps us to develop systems which help us to solve complex problems and take effective decisions in complex situations. 
 We can achieve AI by training algorithms using huge amounts of data where an algorithm learns from the data and achieves experience to perform various tasks like regression and classification.
