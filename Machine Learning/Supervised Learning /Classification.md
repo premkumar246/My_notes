@@ -6,7 +6,7 @@
 
 
 
-[**1. What is Artificial Intelligence?**](#artificial-intelligence)<br>
+[**1. What is Artificial Intelligence?**](#what-is-artificial-intelligence?)<br>
 **2. What is Machine Learning?**<br>
 **3. Why do we need machine leanring?**<br>
 **4. What is Supervised Leanring?**<br>
