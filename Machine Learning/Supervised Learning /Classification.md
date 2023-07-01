@@ -164,6 +164,8 @@ Example: Character Classification.
  	- **Thoery**: Theoritical approach for solving the problem.(optional)
     	- **Variants**: what variant serves best in the specific context of the problem
      	- **Implementation**: What specific implemenation which can be implemented
+        - **Assumptions**: what assumptions does the data should hold true to consider an algorithm to train.
+        - **Validation of Assumptions**: Validating assumption using statistical tests. 
       	- **Importing**: Importing the implementation from the library 
       	- **Imputs & Outputs**: What inputs does the Implementation takes while training
       	- **Training Model**: How to train the model using data.
