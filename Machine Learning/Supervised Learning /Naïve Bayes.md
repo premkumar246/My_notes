@@ -11,4 +11,7 @@ Examples:
     - This algorithm is based on the concepts like Odds, Odds Ratio, log odds and threshold probability.
 
 - Similarly there are other machine learning algorithms which are based on many concepts of probability theory for solving the mentioned problems.
-- One of such concepts is called **Bayes Theorem**.      
+- One of such concepts is called **Bayes Theorem**. Let's understand what is Bayes theorem and how we can use it to approach for a solution in Classification or Regression.
+
+## Bayes Thoerem 
+
