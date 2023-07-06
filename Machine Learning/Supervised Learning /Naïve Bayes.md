@@ -13,7 +13,23 @@ Examples:
 - Similarly there are other machine learning algorithms which are based on many concepts of probability theory for solving the mentioned problems.
 - One of such concepts is called **Bayes Theorem**. Let's understand what is Bayes theorem and how we can use it to approach for a solution in Classification or Regression.
 
-## Bayes Thoerem 
+- The algorithm is discussed covering all the following topics.
+    - 01 Concepts
+    - 02 Variants
+    - 03 Thoery
+    - 04 Implementation
+    - 05 Algorithm Flow 
+    - 06 Advantages & Limitations
+    - 07 Assumptions & Validation
+    - 08 Importing neccesary libraries.
+    - 09 Inputs & Outputs
+    - 10 Training Model
+    - 11 Feature Importance
+    - 12 Model Evaluation Metrics & Interpretation of Measurements
+    - 13 Hyperparameter Tuning
+    - 14 Hanlding Overfitting
+
+## 01 Concepts : Bayes Thoerem 
 - Probability is a number which represents the likelihood of happening a particular event.
 - This probability is more or less thoeritical in nature.
     - Example: Probability of a coin flipped getting heads is 0.5.
@@ -26,5 +42,6 @@ Examples:
     - This is also called as **conditional probability**.
 
   ![Bayes Thoerem Formula](https://miro.medium.com/v2/resize:fit:457/0*Ih9B5Bh6RHPmOzSM.png)
+
   
 
