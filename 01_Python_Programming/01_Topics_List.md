@@ -8,7 +8,7 @@ I need to cover Python Programming in four perspectives
 # 01 Conceptual Understanding
 
 Resources : 
-01 Learning Python by Mark Lutz
+01 Learning Python by Mark Lutz<br>
 02 Core Python Programming by Dr. R Nageswar Rao
 
 Topics List:
