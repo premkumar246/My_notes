@@ -72,19 +72,49 @@ Topics List:
   - 35 Exception Objects (LP)
   - 36 Designing with Exceptions (LP)
   - 16 Exceptions (CPP)
-8. Modlues
+8. **Modlues**
   - 18 Regular Expressions (LP)
   - 20 Date & Time (LP)
-9. Advanced Topics
+9. **Advanced Topics**
   - 38 Managed Attributes (LP)
   - 39 Decorators (LP)
   - 40 Meta Classes (LP)
   - 41 All things good (LP)
   - 21 Threads (CPP)
-10. Apllications
-  - 22 Graphical User Interface
-  - 23 Networking in Python
-  - 24 Python's Database Connectivity
+10. **Apllications**
+  - 22 Graphical User Interface (CPP)
+  - 23 Networking in Python (CPP)
+  - 24 Python's Database Connectivity (CPP)
+
+
+Let's start Leanring Python
+## 2. Object Types and Operations in Python
+
+- In Python Data takes the form of Objects either the built-in objects or the objects we create using classes in Python
+- Objects are just pieces of memory with values and associated with a set of operations.
+
+### The Python Conceptual Hierarchy
+  1. **Programs** are composed of modules.
+  2. **Modules** contain statements.
+  3. **Statements** contain expressions.
+  4. **Expressions** create and process **Objects**.
+
+  Programs >> Modules >> Statements >> Expressions >> Objects
+
+### Python's Core Data Types
+
+**Object type**                      **Example literals/creation**
+Numbers                           1234, 3.1415, 3+4j, 0b111, Decimal(), Fraction()
+Strings                           'spam', "Bob's", b'a\x01c', u'sp\xc4m'
+Lists                             [1, [2, 'three'], 4.5], list(range(10))
+Dictionaries                      {'food': 'spam', 'taste': 'yum'}, dict(hours=10)
+Tuples                            (1, 'spam', 4, 'U'), tuple('spam'), namedtuple
+Files                             open('eggs.txt'), open(r'C:\ham.bin', 'wb')
+Sets                              set('abc'), {'a', 'b', 'c'}
+Other core types                  Booleans, types, None
+Program unit types                Functions, modules, classes (Part IV, Part V, Part VI)
+Implementation-related types      Compiled code, stack tracebacks (Part IV, Part VII)
+
 
     
 
