@@ -103,17 +103,23 @@ Let's start Leanring Python
 
 ### Python's Core Data Types
 
-**Object type**                      **Example literals/creation**
-Numbers                           1234, 3.1415, 3+4j, 0b111, Decimal(), Fraction()
-Strings                           'spam', "Bob's", b'a\x01c', u'sp\xc4m'
-Lists                             [1, [2, 'three'], 4.5], list(range(10))
-Dictionaries                      {'food': 'spam', 'taste': 'yum'}, dict(hours=10)
-Tuples                            (1, 'spam', 4, 'U'), tuple('spam'), namedtuple
-Files                             open('eggs.txt'), open(r'C:\ham.bin', 'wb')
-Sets                              set('abc'), {'a', 'b', 'c'}
-Other core types                  Booleans, types, None
-Program unit types                Functions, modules, classes (Part IV, Part V, Part VI)
-Implementation-related types      Compiled code, stack tracebacks (Part IV, Part VII)
+**Object type**-------------------**Example literals/creation**<br>
+Numbers---------------------------1234, 3.1415, 3+4j, 0b111, Decimal(), Fraction()<br>
+Strings---------------------------'spam', "Bob's", b'a\x01c', u'sp\xc4m'<br>
+Lists-----------------------------[1, [2, 'three'], 4.5], list(range(10))<br>
+Dictionaries----------------------{'food': 'spam', 'taste': 'yum'}, dict(hours=10)<br>
+Tuples----------------------------(1, 'spam', 4, 'U'), tuple('spam'), namedtuple<br>
+Files-----------------------------open('eggs.txt'), open(r'C:\ham.bin', 'wb')<br>
+Sets------------------------------set('abc'), {'a', 'b', 'c'}<br>
+Other core types------------------Booleans, types, None<br>
+Program unit types----------------Functions, modules, classes (Part IV, Part V, Part VI)<br>
+Implementation-related types------Compiled code, stack tracebacks (Part IV, Part VII)<br>
+
+- In python everything is an object, which means stored in a memory cell.
+- We create objects using the syntax and the interpreter fix the set of operations that we could perform in the objects.
+- Which means we can perform only string operations on strings Numerical operations on numbers.
+- Python is a dynamically typed language - where it decides the data type on the go for itslef
+- Python is a Strongly typed language - where once you decide your data type you cannot perform other operations which not allowed on it. 
 
 
     
