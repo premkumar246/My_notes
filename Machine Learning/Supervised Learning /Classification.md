@@ -161,21 +161,21 @@ Example: Character Classification.
 - Now let's try to understand what all components we should understand, learn while training the algorithms for performing tasks.
 - This is when you defined the problem and selected a paradigm and task to solve the problem. 
 	- **Concepts**: Conceptual Framework behind the problem solving approach.
- 	- **Thoery**: Theoritical approach for solving the problem.(optional)
-    	- **Variants**: what variant serves best in the specific context of the problem
-     	- **Implementation**: What specific implemenation which can be implemented
-        - **Algorithm Flow** : Step by step procedure folwed by the algorithm to solve a problem.
-        - **Advantages & Limitations** : Pros & Cons of using a particular algorithm. 
-        - **Assumptions**: what assumptions does the data should hold true to consider an algorithm to train.
-        - **Validation of Assumptions**: Validating assumption using statistical tests. 
-      	- **Importing**: Importing the implementation from the library 
-      	- **Imputs & Outputs**: What inputs does the Implementation takes while training
-      	- **Training Model**: How to train the model using data.
-      	- **Model Evaluation**: What metrics we can use to evaluate the model.
-      	- **Calculation of Metrics**: Using code how to calculate the metrics.
-      	- **Interpretation of Measurements**: What does it mean to have a specific value for a specific parametre
-      	- **Hyperparameter Tuning**: How to tune hyperparametres for a better model performance
-      	- **Hanlding Overfitting**: Techniques to handle over fitting.
+	- **Thoery**: Theoritical approach for solving the problem.(optional)
+	- **Variants**: what variant serves best in the specific context of the problem
+	- **Implementation**: What specific implemenation which can be implemented
+	- **Algorithm Flow** : Step by step procedure folwed by the algorithm to solve a problem.
+	- **Advantages & Limitations** : Pros & Cons of using a particular algorithm. 
+	- **Assumptions**: what assumptions does the data should hold true to consider an algorithm to train.
+	- **Validation of Assumptions**: Validating assumption using statistical tests. 
+	- **Importing**: Importing the implementation from the library 
+	- **Imputs & Outputs**: What inputs does the Implementation takes while training
+   	- **Training Model**: How to train the model using data.
+  	- **Model Evaluation**: What metrics we can use to evaluate the model.
+	- **Calculation of Metrics**: Using code how to calculate the metrics.
+	- **Interpretation of Measurements**: What does it mean to have a specific value for a specific parametre
+	- **Hyperparameter Tuning**: How to tune hyperparametres for a better model performance
+	- **Hanlding Overfitting**: Techniques to handle over fitting.
 
 This gives a complete list of things to understand and learn to do while training a model using a specific implementation. 
  
