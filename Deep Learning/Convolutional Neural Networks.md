@@ -1,5 +1,6 @@
 <h1 style="font-family:Consolas; font-size: 25px;"> Convolutional Neural Networks</h1>
 https://www.analyticsvidhya.com/blog/2021/07/convolution-neural-network-better-understanding/#:~:text=CNN%20is%20a%20deep%20learning,used%20at%20the%20Author's%20discretion.
+
 ### What is Convoltuional Neural Network?
 - A Convolutional neural networks also known as convnet , or CNNs are a special kind of neural networks for processing data that has a known grid-like topology like time series data(1D) or image data(2d)Convolutional Neural Networks 
 - A Convolutional Neural network is a special type of Neural network which is used to process grid like topology like 1D time series data or 2D image data. 
