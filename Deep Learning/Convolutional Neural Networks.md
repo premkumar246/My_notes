@@ -33,14 +33,60 @@
 
 
 ### Application 
-- image classification 
-- Object Localization 
-- Object detection 
-- Face recognition 
-- Image segmentation 
-- Super Resolution 
-- Colorization 
-- Pose detection 
+
+- Computer vision is a field of artificial intelligence (AI) that enables machines to interpret and understand visual information from the world. 
+- It involves the development of algorithms and systems that can analyze and make decisions based on visual data. 
+- The applications of computer vision are diverse and span across various industries. Here are some notable applications:
+
+1. **Image and Video Recognition:**
+   - **Object Recognition:** Identifying and classifying objects within images or video streams.
+   - **Facial Recognition:** Recognizing and verifying individuals based on facial features.
+   - **Gesture Recognition:** Interpreting human gestures for human-computer interaction.
+
+2. **Medical Imaging:**
+   - **Diagnostic Imaging:** Assisting in medical diagnosis through the analysis of images from X-rays, MRIs, CT scans, and other medical imaging modalities.
+   - **Pathology Analysis:** Automated analysis of pathology slides for detecting abnormalities or diseases.
+
+3. **Autonomous Vehicles:**
+   - **Object Detection:** Identifying and tracking objects in the surroundings for navigation and collision avoidance.
+   - **Lane Detection:** Recognizing road lanes to assist in autonomous driving.
+
+4. **Robotics:**
+   - **Object Manipulation:** Enabling robots to identify and manipulate objects in their environment.
+   - **Navigation:** Providing robots with the ability to navigate through environments using visual data.
+
+5. **Augmented Reality (AR) and Virtual Reality (VR):**
+   - **AR Applications:** Overlaying digital information onto the real-world view, enhancing user experiences.
+   - **VR Simulations:** Creating realistic virtual environments for immersive experiences.
+
+6. **Security and Surveillance:**
+   - **Intrusion Detection:** Monitoring areas for unauthorized access or suspicious activities.
+   - **Anomaly Detection:** Identifying unusual patterns or behaviors in surveillance footage.
+
+7. **Retail:**
+   - **Object Recognition for Inventory Management:** Automating inventory tracking and management in retail stores.
+   - **Customer Analytics:** Analyzing customer behavior for personalized marketing and improved store layouts.
+
+8. **Agriculture:**
+   - **Crop Monitoring:** Analyzing satellite or drone imagery to monitor crop health and yield predictions.
+   - **Weed Detection:** Identifying and managing weed infestations in fields.
+
+9. **Entertainment:**
+   - **Content Recommendation:** Analyzing user preferences and behavior for personalized content recommendations.
+   - **Video Game Development:** Implementing realistic graphics and character animations.
+
+10. **Document Analysis:**
+    - **Optical Character Recognition (OCR):** Extracting text from images or scanned documents.
+    - **Document Classification:** Categorizing and organizing documents based on content.
+
+11. **Industrial Quality Control:**
+    - **Defect Detection:** Identifying defects or irregularities in manufactured products.
+    - **Quality Assurance:** Ensuring the quality of products through visual inspection.
+
+12. **Environmental Monitoring:**
+    - **Wildlife Monitoring:** Tracking and monitoring wildlife populations using camera traps.
+    - **Climate and Weather Analysis:** Analyzing satellite imagery for weather prediction and environmental monitoring.
+
 
 ### CNN Road map 
 - CNN basics 
