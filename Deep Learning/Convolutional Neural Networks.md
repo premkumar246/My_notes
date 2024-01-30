@@ -1,12 +1,44 @@
 <h1 style="font-family:Consolas; font-size: 25px;"> Convolutional Neural Networks</h1>
 
 ### What is Convoltuional Neural Network?
-- A Convolutional neural networks also known as convnet , or CNNs are a special kind of neural networks for processing data that has a known grid-like topology like time series data(1D) or image data(2d)Convolutional Neural Networks 
-- A Convolutional Neural network is a special type of Neural network which is used to process grid like topology like 1D time series data or 2D image data. 
-- A convolutional network has three layers 
-    - 1.Convolutional Layer 
-    - 2.Pooling Layer
-    - 3.Fully connected Layer 
+- Convolutional Neural Networks (CNNs or ConvNets) are a class of deep neural networks that are particularly well-suited for tasks involving visual data, such as image and video recognition. 
+- CNNs have proven to be highly effective in computer vision tasks, outperforming traditional methods in various applications. 
+- The architecture of CNNs is inspired by the visual processing that occurs in the human brain.
+
+#### Key characteristics of Convolutional Neural Networks:
+
+1. **Convolutional Layers:**
+   - CNNs use convolutional layers to automatically and adaptively learn spatial hierarchies of features from input data.
+   - Convolution involves applying filters (kernels) to small overlapping regions of the input data to extract local features.
+   - These filters slide or convolve across the input, capturing patterns such as edges, textures, and shapes.
+
+2. **Pooling Layers:**
+   - Pooling layers downsample the spatial dimensions of the input, reducing computational complexity and the number of parameters.
+   - Common pooling operations include max pooling (selecting the maximum value in a region) and average pooling (calculating the average value).
+
+3. **Activation Functions:**
+   - Activation functions, such as Rectified Linear Unit (ReLU), are applied after convolution and pooling layers to introduce non-linearity into the network.
+   - Non-linearity is essential for enabling the network to learn complex patterns and relationships in the data.
+
+4. **Fully Connected Layers:**
+   - Following convolutional and pooling layers, CNNs often have one or more fully connected layers.
+   - These layers combine the learned features to make final predictions or classifications.
+
+5. **Hierarchical Feature Learning:**
+   - CNNs learn hierarchical representations of features, starting with low-level features like edges and gradually progressing to more complex and abstract features.
+
+6. **Parameter Sharing:**
+   - The use of shared weights in convolutional layers allows the network to learn a set of filters that can be applied across the entire input.
+   - Parameter sharing reduces the number of parameters in the model, making it more efficient and capable of generalizing to new data.
+
+7. **Spatial Invariance:**
+   - CNNs exhibit spatial invariance, meaning they can recognize patterns regardless of their position in the input space.
+   - This property is beneficial for tasks like object recognition where the position of an object in an image may vary.
+
+8. **Transfer Learning:**
+   - CNNs can leverage pre-trained models on large datasets for specific tasks (e.g., ImageNet), allowing for transfer learning to new tasks with smaller datasets.
+
+
 ### Inspired by Human Visual Cortex
 - A convolutional Layer performs an operation called convolution over the matrix of inputs. 
 - The CNNs are inspired by Human Visual Cortex. 
