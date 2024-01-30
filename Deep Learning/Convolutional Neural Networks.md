@@ -1,5 +1,6 @@
 <h1 style="font-family:Consolas; font-size: 25px;"> Convolutional Neural Networks</h1>
 
+## Introduction to Convolutional Neural Networks
 ### What is Convoltuional Neural Network?
 - Convolutional Neural Networks (CNNs or ConvNets) are a class of deep neural networks that are particularly well-suited for tasks involving visual data, such as image and video recognition. 
 - CNNs have proven to be highly effective in computer vision tasks, outperforming traditional methods in various applications. 
@@ -42,7 +43,8 @@
 ### Inspired by Human Visual Cortex
 - A convolutional Layer performs an operation called convolution over the matrix of inputs. 
 - The CNNs are inspired by Human Visual Cortex. 
-- In 1998 Yann Lecun build first successful Neural network in AT&T then Microsoft build optical recognition and hand writing recognition tools 
+- In 1998 Yann Lecun build first successful Neural network in AT&T then Microsoft build optical recognition and hand writing recognition tools.
+
 ### Why not ANNs? 
 - We can use ANNs but the results are not satisfactory always 
 #### High computation cost 
@@ -138,3 +140,7 @@
    - Xceptional module 
 - Transfer learning 
 
+## History behind the Evolution of CNNs
+
+- Resources : <a href='https://www.youtube.com/watch?v=IOHayh06LJ4'>Hubel and Wiesel's Cat Experiments video (1959-1968)</a>
+    - 
