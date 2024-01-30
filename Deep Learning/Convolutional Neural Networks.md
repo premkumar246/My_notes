@@ -22,6 +22,7 @@
 - As in ANNs we convert the 2D data into 1D data we loose the features spatial arrangements and distance between them and positions which is also an important feature to extract in image data. 
 
 ### How CNNs Works? 
+![convolutional network image](https://editor.analyticsvidhya.com/uploads/59954intro%20to%20CNN.JPG)
 - A Convolutional Neural networks has a convolutional and padding layers along with the fully connected dense layers as ANNs. 
 - The convolutional layer performs convolution operation which is similar to a matrix element-wise multiplication this required to extract the boundaries or density change in the image data. 
 - By performing the convolution operation the images turned in to a low resolution images with well differentiated edges in it. 
