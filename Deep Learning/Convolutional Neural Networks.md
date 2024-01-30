@@ -143,4 +143,45 @@
 ## History behind the Evolution of CNNs
 
 - Resources : <a href='https://www.youtube.com/watch?v=IOHayh06LJ4'>Hubel and Wiesel's Cat Experiments video (1959-1968)</a>
-    - 
+
+- The development of Convolutional Neural Networks (CNNs) is inspired by the structure and functioning of the human visual system, particularly the visual cortex. 
+- Researchers have conducted various experiments and studies to understand the biological aspects of vision, and these findings have influenced the design of CNNs. 
+- Here are some key connections and experiments:
+
+1. **Hubel and Wiesel's Cat Experiments (1959-1968):**
+   - Neuroscientists David Hubel and Torsten Wiesel conducted groundbreaking experiments on cats, which led to their Nobel Prize in Physiology or Medicine in 1981.
+   - They discovered the existence of simple cells and complex cells in the primary visual cortex of cats. Simple cells respond to specific orientations of edges, while complex cells respond to more complex patterns and are less sensitive to the exact location of the stimulus.
+
+2. **Receptive Fields and Feature Detection (1960s):**
+   - Hubel and Wiesel's work demonstrated that neurons in the visual cortex have receptive fields, areas of the visual field that stimulate a neuron's activity.
+   - These neurons exhibit selectivity to certain visual features, such as edges, textures, or colors. This concept of feature detection influenced the design of CNNs, where convolutional layers capture similar local features.
+
+3. **Neocognitron Model (1980s):**
+   - Kunihiko Fukushima's Neocognitron, inspired by Hubel and Wiesel's findings, introduced a hierarchical architecture with alternating layers of simple and complex cells.
+   - Neocognitron aimed to mimic the visual processing hierarchy observed in the human brain and laid the groundwork for the development of CNNs.
+
+4. **Development of LeNet-5 (1998):**
+   - Yann LeCun and his colleagues developed LeNet-5, a convolutional neural network designed for handwritten digit recognition.
+   - LeNet-5's architecture included convolutional layers and subsampling layers, drawing inspiration from the visual cortex's hierarchical structure.
+
+5. **Breakthrough in ImageNet Classification (2012):**
+   - The breakthrough for CNNs on a global scale came in 2012 when Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton introduced AlexNet. This CNN architecture achieved a significant improvement in image classification accuracy during the ImageNet Large Scale Visual Recognition Challenge (ILSVRC). The use of deep convolutional layers and GPU acceleration played a crucial role in this success.
+
+6. **GoogLeNet (2014):**
+   - Google researchers introduced GoogLeNet (Inception), a CNN architecture with the innovative Inception modules. This architecture aimed to address the challenge of efficient use of computation resources while maintaining high accuracy. GoogLeNet won the ILSVRC 2014 competition.
+
+7. **VGGNet (2014):**
+   - The Visual Geometry Group (VGG) at the University of Oxford introduced the VGGNet, a CNN architecture with a simple and uniform structure. It consisted of very deep networks with small 3x3 convolutional filters, contributing to improved generalization.
+
+8. **ResNet (2015):**
+   - Residual Networks (ResNet), proposed by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, introduced the concept of residual learning. ResNet used residual blocks to address the challenges of training very deep networks, allowing for the successful training of networks with hundreds of layers.
+
+9. **Transfer Learning and Pre-training (2010s):**
+   - CNNs, especially those pre-trained on large datasets like ImageNet, demonstrated the effectiveness of transfer learning. Transfer learning allowed leveraging pre-trained models on new tasks with limited labeled data, saving computational resources and time.
+
+10. **Advancements and Applications (2010s-Present):**
+   - CNNs have continued to advance, with architectures like MobileNet for efficient deployment on mobile devices, DenseNet with densely connected blocks, and more.
+   - CNNs have found widespread applications beyond image classification, including object detection, image segmentation, facial recognition, medical image analysis, autonomous vehicles, and natural language processing.
+
+- The history of CNNs reflects a continuous evolution driven by advancements in network architectures, training methodologies, and computational resources. 
+- The success of CNNs has significantly influenced the field of computer vision and has become a cornerstone in various AI applications.
