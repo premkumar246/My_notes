@@ -180,8 +180,8 @@
    - CNNs, especially those pre-trained on large datasets like ImageNet, demonstrated the effectiveness of transfer learning. Transfer learning allowed leveraging pre-trained models on new tasks with limited labeled data, saving computational resources and time.
 
 10. **Advancements and Applications (2010s-Present):**
-   - CNNs have continued to advance, with architectures like MobileNet for efficient deployment on mobile devices, DenseNet with densely connected blocks, and more.
-   - CNNs have found widespread applications beyond image classification, including object detection, image segmentation, facial recognition, medical image analysis, autonomous vehicles, and natural language processing.
+    - CNNs have continued to advance, with architectures like MobileNet for efficient deployment on mobile devices, DenseNet with densely connected blocks, and more.
+    - CNNs have found widespread applications beyond image classification, including object detection, image segmentation, facial recognition, medical image analysis, autonomous vehicles, and natural language processing.
 
 - The history of CNNs reflects a continuous evolution driven by advancements in network architectures, training methodologies, and computational resources. 
 - The success of CNNs has significantly influenced the field of computer vision and has become a cornerstone in various AI applications.
